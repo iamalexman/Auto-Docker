@@ -15,3 +15,8 @@
 - FTP server container pointing to the volume of WordPress website.
 - Simple static website in the HTML/CSS.
 - An Adminer container.
+
+<img width="945" alt="Screen Shot 2022-04-19 at 4 07 43 PM" src="https://user-images.githubusercontent.com/61458847/164036576-5f410a54-3974-4dd0-94e7-472fcdf7b06f.png">
+<img width="895" alt="Screen Shot 2022-04-16 at 5 46 25 PM" src="https://user-images.githubusercontent.com/61458847/164036616-2b4a44d1-1c20-448a-84a0-c497cb097c75.png">
+<img width="897" alt="Screen Shot 2022-04-16 at 5 47 09 PM" src="https://user-images.githubusercontent.com/61458847/164036623-f1d0b45b-f2c3-4a93-b3eb-45b1621bf1de.png">
+<img width="894" alt="Screen Shot 2022-04-16 at 5 48 14 PM" src="https://user-images.githubusercontent.com/61458847/164036634-c63ca230-be85-40b4-84ee-d5116a867f61.png">
